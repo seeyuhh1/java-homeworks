@@ -1,0 +1,1 @@
+Automatic file closing in Java
